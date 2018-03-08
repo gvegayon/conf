@@ -22,3 +22,8 @@ The following page provides a list of conferences related to statistical computi
 - RECOMB 2018 http://recomb2018.fr/ 21-24 Apr 2018, Paris
 
 - GECCO 2018 The Genetic and Evolutionary Computation Conference http://gecco-2018.sigevo.org/index.html/HomePage July 15th-19th 2018, Kyoto
+
+
+# Computational Tools
+
+- DockerCon 2018, Moscone Center, San Francisco https://2018.dockercon.com/
